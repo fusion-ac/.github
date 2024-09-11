@@ -3,3 +3,9 @@
 Fusion is a cloud-based advanced anti-cheat software for Minecraft. It utilises modern solutions for detecting and mitigating illegal client modifications.
 
 A new version of Fusion is currently in development. Check out our [website](https://fusion.ac) and [discord server](https://discord.gg/rNRVEnNFM5) for further information.
+
+## Infrastructure
+
+Fusion infrastructure is built upon an enterprise-grade architecture that ensures fast data processing and high availability.
+
+<img height="500px" src="../assets/infrastructure.png" alt="Infrastructure"/>
