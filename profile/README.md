@@ -30,6 +30,4 @@ We care about your time. Our support team is there to help you in case you have 
 
 <br>
 
-<img height="30px" src="https://raw.githubusercontent.com/fusion-ac/branding/master/favicon-solid.png" alt="Logo"/>
-
 Fusion anti-cheat solutions. Protecting your Minecrat servers since 2019.
